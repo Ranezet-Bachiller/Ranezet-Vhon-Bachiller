@@ -13,8 +13,8 @@ New Era University
 
 ## 🏅 Certifications
 ([SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c6b9e3cfe38a48dd8d2ebd9b47b2f8f2))  
-<!-- Example:
-[SQL and Relational Databases 101](#)
+
+[Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=52B673BB2719E44147684435560A86096F213118AA54D05E5329F4041A042AF6)
 -->
 
 ---
